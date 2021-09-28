@@ -3,29 +3,29 @@ This repository contains the solutions to the exercises of the course 2D Image P
 
 ### Exercise 1: 
 
-1. Image correlation and Template matching:
+**1. Image correlation and Template matching:**
 
-Template matchning is a method for searching and finding the location of a template image in a larger image. Here cross correlation filtering is performed to calculate the similarity of a template with a image. The code for this can be found in the jupyter notebook "Exercise_1.ipynb" 
+Template matchning is a method for searching and finding the location of a template image in a larger image. Here cross correlation filtering is performed to calculate the similarity of a template with a image. The code for this can be found in the jupyter notebook "Exercise_1.ipynb" under Problem 1.
 
 | ![](Images/Result1.png) |
 |:--:|
 | <b> Figure 1: Template Matching</b>|
 
-2. Image smoothing and filtering:
+**2. Image smoothing and filtering:**
 
-Popular image smoothing filters such as Gaussian and Average smoothing filters are applied over an image and the parameters of the Gaussian smoothing are varied to check the effect on the image. The code for this task can be found in the jupyter notebook "Exercise_1.ipynb" under section
+Popular image smoothing filters such as Gaussian and Average smoothing filters are applied over an image and the parameters of the Gaussian smoothing are varied to check the effect on the image. The code for this task can be found in the jupyter notebook "Exercise_1.ipynb" under Problem 2.
 
 | ![](Images/Result2.png) |
 |:--:|
 | <b> Figure 2: Gaussian Smoothing</b>|
 
-3. Image noises and image sharpening:
+**3. Image noises and image sharpening:**
 
-Smoothing filters such as Gaussian, Median and Average filters are applied over noisy images. The images are corrupted with salt and pepepr noise, Impulse noise and Gaussian noise. Finally image sharpening filter is applied to sharpen the given image. The code for this task can be found in the jupyter notebook "Exercise_1.ipynb" under section
+Smoothing filters such as Gaussian, Median and Average filters are applied over noisy images. The images are corrupted with salt and pepepr noise, Impulse noise and Gaussian noise. Finally image sharpening filter is applied to sharpen the given image. The code for this task can be found in the jupyter notebook "Exercise_1.ipynb" under Problem 3.
 
-4. Fourier Transform of images:
+**4. Fourier Transform of images:**
 
-The given image is converted in to frequency domain to analyse the magnitude spectrum of the image. High and low pass filters are applied for the image in the frequency domain to understand what features of the image were retained/lost. The code for this task can be found in the jupyter notebook "Exercise_1.ipynb" under section
+The given image is converted in to frequency domain to analyse the magnitude spectrum of the image. High and low pass filters are applied for the image in the frequency domain to understand what features of the image were retained/lost. The code for this task can be found in the jupyter notebook "Exercise_1.ipynb" under Problem 4.
 
 | ![](Images/Result3.png) |
 |:--:|
